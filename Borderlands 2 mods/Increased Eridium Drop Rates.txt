@@ -1,0 +1,5 @@
+# Eridium bar
+set GD_Itempools.DropWeights.DropODDS_EridiumBar:ConstantAttributeValueResolver_1 ConstantValue 0.050000
+
+# Eridium stack
+set GD_Itempools.DropWeights.DropODDS_EridiumStick:ConstantAttributeValueResolver_1 ConstantValue 0.025000
